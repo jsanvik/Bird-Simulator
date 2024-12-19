@@ -1,0 +1,163 @@
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:60: warning: Compound AmericanWhey is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:55: warning: Compound BigBird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:10: warning: Compound Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:32: warning: Compound BirdFactory is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:14: warning: Compound BuiltNest is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:46: warning: Compound Feather is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:120: warning: Compound Kermit is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:32: warning: Compound LilyPad is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:21: warning: Compound Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:6: warning: Compound Nest is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:39: warning: Compound Newspaper is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:100: warning: Compound RubberDucky is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:75: warning: Compound SamEagle is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:53: warning: Compound SoapDish is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:62: warning: Member AmericanWhey(Nest *prev) (function) of class AmericanWhey is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:26: warning: Member getDescription() override (function) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:29: warning: Member previous (variable) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+<getDescription>:1: warning: parameters of member Material::getDescription are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:13: warning: Member springBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:14: warning: Member migrateNorth()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:15: warning: Member buildNest()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:16: warning: Member findMate()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:18: warning: Member summerBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:19: warning: Member RaiseChildren()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:21: warning: Member fallBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:22: warning: Member migrateSouth()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:24: warning: Member winterBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:25: warning: Member fattenUp()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:28: warning: Member nestMaterial (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:29: warning: Member name (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:59: warning: Member migrateNorth() (function) of class BigBird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:60: warning: Member buildNest() (function) of class BigBird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:61: warning: Member findMate() (function) of class BigBird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:64: warning: Member RaiseChildren() (function) of class BigBird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:67: warning: Member migrateSouth() (function) of class BigBird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:70: warning: Member fattenUp() (function) of class BigBird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:13: warning: Member springBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:18: warning: Member summerBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:21: warning: Member fallBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:24: warning: Member winterBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:28: warning: Member nestMaterial (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:29: warning: Member name (variable) of class Bird is not documented.
+<buildNest>:1: warning: parameters of member BigBird::buildNest are not documented
+<fattenUp>:1: warning: parameters of member BigBird::fattenUp are not documented
+<findMate>:1: warning: parameters of member BigBird::findMate are not documented
+<migrateNorth>:1: warning: parameters of member BigBird::migrateNorth are not documented
+<migrateSouth>:1: warning: parameters of member BigBird::migrateSouth are not documented
+<RaiseChildren>:1: warning: parameters of member BigBird::RaiseChildren are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:13: warning: Member springBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:14: warning: Member migrateNorth()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:15: warning: Member buildNest()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:16: warning: Member findMate()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:18: warning: Member summerBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:19: warning: Member RaiseChildren()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:21: warning: Member fallBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:22: warning: Member migrateSouth()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:24: warning: Member winterBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:25: warning: Member fattenUp()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:28: warning: Member nestMaterial (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:29: warning: Member name (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:34: warning: Member CreateBaldBird()=0 (function) of class BirdFactory is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:35: warning: Member CreateFeatheredBird()=0 (function) of class BirdFactory is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:16: warning: Member getDescription() override (function) of class BuiltNest is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+<getDescription>:1: warning: parameters of member BuiltNest::getDescription are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:48: warning: Member Feather(Nest *prev) (function) of class Feather is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:26: warning: Member getDescription() override (function) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:29: warning: Member previous (variable) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+<getDescription>:1: warning: parameters of member Material::getDescription are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:13: warning: Member springBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:14: warning: Member migrateNorth()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:15: warning: Member buildNest()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:16: warning: Member findMate()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:18: warning: Member summerBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:19: warning: Member RaiseChildren()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:21: warning: Member fallBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:22: warning: Member migrateSouth()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:24: warning: Member winterBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:25: warning: Member fattenUp()=0 (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:28: warning: Member nestMaterial (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:29: warning: Member name (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:124: warning: Member migrateNorth() (function) of class Kermit is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:125: warning: Member buildNest() (function) of class Kermit is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:126: warning: Member findMate() (function) of class Kermit is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:129: warning: Member RaiseChildren() (function) of class Kermit is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:132: warning: Member migrateSouth() (function) of class Kermit is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:135: warning: Member fattenUp() (function) of class Kermit is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:13: warning: Member springBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:18: warning: Member summerBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:21: warning: Member fallBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:24: warning: Member winterBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:28: warning: Member nestMaterial (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:29: warning: Member name (variable) of class Bird is not documented.
+<buildNest>:1: warning: parameters of member Kermit::buildNest are not documented
+<fattenUp>:1: warning: parameters of member Kermit::fattenUp are not documented
+<findMate>:1: warning: parameters of member Kermit::findMate are not documented
+<migrateNorth>:1: warning: parameters of member Kermit::migrateNorth are not documented
+<migrateSouth>:1: warning: parameters of member Kermit::migrateSouth are not documented
+<RaiseChildren>:1: warning: parameters of member Kermit::RaiseChildren are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:34: warning: Member LilyPad(Nest *prev) (function) of class LilyPad is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:26: warning: Member getDescription() override (function) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:29: warning: Member previous (variable) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+<getDescription>:1: warning: parameters of member Material::getDescription are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:24: warning: Member Material(Nest *prev) (function) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:26: warning: Member getDescription() override (function) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:29: warning: Member previous (variable) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+<getDescription>:1: warning: parameters of member Material::getDescription are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:34: warning: Member CreateBaldBird()=0 (function) of class BirdFactory is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:35: warning: Member CreateFeatheredBird()=0 (function) of class BirdFactory is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:8: warning: Member getDescription()=0 (function) of class Nest is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:41: warning: Member Newspaper(Nest *prev) (function) of class Newspaper is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:26: warning: Member getDescription() override (function) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:29: warning: Member previous (variable) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+<getDescription>:1: warning: parameters of member Material::getDescription are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:104: warning: Member migrateNorth() (function) of class RubberDucky is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:105: warning: Member buildNest() (function) of class RubberDucky is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:106: warning: Member findMate() (function) of class RubberDucky is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:109: warning: Member RaiseChildren() (function) of class RubberDucky is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:112: warning: Member migrateSouth() (function) of class RubberDucky is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:115: warning: Member fattenUp() (function) of class RubberDucky is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:13: warning: Member springBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:18: warning: Member summerBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:21: warning: Member fallBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:24: warning: Member winterBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:28: warning: Member nestMaterial (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:29: warning: Member name (variable) of class Bird is not documented.
+<buildNest>:1: warning: parameters of member RubberDucky::buildNest are not documented
+<fattenUp>:1: warning: parameters of member RubberDucky::fattenUp are not documented
+<findMate>:1: warning: parameters of member RubberDucky::findMate are not documented
+<migrateNorth>:1: warning: parameters of member RubberDucky::migrateNorth are not documented
+<migrateSouth>:1: warning: parameters of member RubberDucky::migrateSouth are not documented
+<RaiseChildren>:1: warning: parameters of member RubberDucky::RaiseChildren are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:79: warning: Member migrateNorth() (function) of class SamEagle is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:80: warning: Member buildNest() (function) of class SamEagle is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:81: warning: Member findMate() (function) of class SamEagle is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:84: warning: Member RaiseChildren() (function) of class SamEagle is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:87: warning: Member migrateSouth() (function) of class SamEagle is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:90: warning: Member fattenUp() (function) of class SamEagle is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:13: warning: Member springBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:18: warning: Member summerBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:21: warning: Member fallBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:24: warning: Member winterBehaviour() (function) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:28: warning: Member nestMaterial (variable) of class Bird is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:29: warning: Member name (variable) of class Bird is not documented.
+<buildNest>:1: warning: parameters of member SamEagle::buildNest are not documented
+<fattenUp>:1: warning: parameters of member SamEagle::fattenUp are not documented
+<findMate>:1: warning: parameters of member SamEagle::findMate are not documented
+<migrateNorth>:1: warning: parameters of member SamEagle::migrateNorth are not documented
+<migrateSouth>:1: warning: parameters of member SamEagle::migrateSouth are not documented
+<RaiseChildren>:1: warning: parameters of member SamEagle::RaiseChildren are not documented
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:34: warning: Member CreateBaldBird()=0 (function) of class BirdFactory is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Bird.hpp:35: warning: Member CreateFeatheredBird()=0 (function) of class BirdFactory is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:55: warning: Member SoapDish(Nest *prev) (function) of class SoapDish is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:26: warning: Member getDescription() override (function) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:29: warning: Member previous (variable) of class Material is not documented.
+/home/anvj2720/Documents/assignments/john-super-cool-bird-simulator/include/Nest.hpp:11: warning: Member description (variable) of class Nest is not documented.
+<getDescription>:1: warning: parameters of member Material::getDescription are not documented
